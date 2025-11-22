@@ -1,4 +1,5 @@
-🚀 AI Learning Roadmap
+# 🚀 AI Learning Roadmap   
+
 
 This roadmap guides you from the essential foundations of math and Python into the core of classical machine learning, where you learn regression, classification, clustering, and model evaluation. It then progresses into neural networks, starting with simple perceptrons and deep feed-forward models before moving into computer vision with CNNs, sequence modeling with RNNs/LSTMs, and modern Transformers and attention mechanisms. After mastering supervised and unsupervised learning, the roadmap introduces reinforcement learning, followed by advanced subjects like GANs, graph neural networks, and practical projects that solidify each stage. Step by step, it builds your skills from beginner to research-level AI practitioner.
 ------------------------------------------------------------------------------------------------------------------------------------------------------
