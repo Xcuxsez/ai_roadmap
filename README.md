@@ -1,6 +1,9 @@
 🚀 AI Learning Roadmap
 
 This roadmap guides you from the essential foundations of math and Python into the core of classical machine learning, where you learn regression, classification, clustering, and model evaluation. It then progresses into neural networks, starting with simple perceptrons and deep feed-forward models before moving into computer vision with CNNs, sequence modeling with RNNs/LSTMs, and modern Transformers and attention mechanisms. After mastering supervised and unsupervised learning, the roadmap introduces reinforcement learning, followed by advanced subjects like GANs, graph neural networks, and practical projects that solidify each stage. Step by step, it builds your skills from beginner to research-level AI practitioner.
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 
 📘 Level 0 – Foundations (Math + Python)
 Math
@@ -26,6 +29,10 @@ Python
 • Jupyter notebooks
 
 • Git and GitHub basics
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 📙 Level 1 – Classical Machine Learning
 Regression
@@ -80,6 +87,11 @@ Unsupervised Learning
 
 • UMAP
 
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 📗 Level 2 – Neural Network Basics
 
 • Perceptron (single neuron model)
@@ -108,6 +120,9 @@ Frameworks
 
 • PyTorch
 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 📘 Level 3 – Convolutional Neural Networks (CNNs)
 
 • Convolutions and feature maps
@@ -123,6 +138,10 @@ Frameworks
 • Transfer learning
 
 • Fine-tuning pretrained models
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 📙 Level 4 – Sequence Models (RNNs & LSTMs)
 
@@ -150,6 +169,9 @@ Applications
 
 • Time series forecasting
 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 📗 Level 5 – Transformers & Attention
 
 • Attention mechanism
@@ -167,6 +189,9 @@ Applications
 • GPT-style models
 
 • Vision transformers (ViT)
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 📘 Level 6 – Reinforcement Learning
 
@@ -187,6 +212,9 @@ Applications
 • PPO
 
 • A3C
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 📙 Level 7 – Advanced Topics
 Generative Models
