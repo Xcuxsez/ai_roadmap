@@ -1,371 +1,216 @@
-# ai_roadmap
-This roadmap takes you from math and Python foundations to classical ML, deep learning, transformers, reinforcement learning, and advanced AI projects in a clear step-by-step progression.
-AI Learning Roadmap
+🚀 AI Learning Roadmap
 
 This roadmap guides you from the essential foundations of math and Python into the core of classical machine learning, where you learn regression, classification, clustering, and model evaluation. It then progresses into neural networks, starting with simple perceptrons and deep feed-forward models before moving into computer vision with CNNs, sequence modeling with RNNs/LSTMs, and modern Transformers and attention mechanisms. After mastering supervised and unsupervised learning, the roadmap introduces reinforcement learning, followed by advanced subjects like GANs, graph neural networks, and practical projects that solidify each stage. Step by step, it builds your skills from beginner to research-level AI practitioner.
 
-📘 LEVEL 0 — Foundations (Math + Python)
-Math Foundations
+📘 Level 0 – Foundations (Math + Python)
+Math
 
-Linear Algebra
+• Linear algebra
 
-Vectors, matrices
+• Calculus
 
-Matrix multiplication
+• Probability and statistics
 
-Linear transformations
+• Optimization and gradient descent
 
-Eigenvalues & eigenvectors
+Python
 
-Calculus
+• Python basics
 
-Derivatives, gradients
+• Numpy
 
-Chain rule
+• Pandas
 
-Partial derivatives
+• Matplotlib
 
-Probability & Statistics
+• Jupyter notebooks
 
-Random variables
+• Git and GitHub basics
 
-Distributions
-
-Expectation & variance
-
-Bayes Rule
-
-Maximum Likelihood Estimation (MLE)
-
-Optimization
-
-Gradient descent
-
-Convex vs non-convex functions
-
-Python Foundations
-
-Python syntax
-
-Numpy
-
-Pandas
-
-Matplotlib / Seaborn
-
-Jupyter notebooks
-
-Git + GitHub basics
-
-📙 LEVEL 1 — Classical Machine Learning
+📙 Level 1 – Classical Machine Learning
 Regression
 
-Simple Linear Regression
+• Simple linear regression
 
-Multiple Linear Regression
+• Multiple linear regression
 
-Ridge Regression
+• Ridge regression
 
-Lasso Regression & Feature Selection
+• Lasso regression and feature selection
 
-Gradient Descent for Regression
+• Gradient descent
 
-Stochastic Gradient Descent (SGD)
+• Stochastic gradient descent
 
-Cross-Validation
+• Cross-validation
 
-Evaluation Metrics
+• Evaluation metrics (MSE, MAE, R²)
 
-MSE, RMSE, MAE, R²
-
-Scikit-Learn
+• Scikit-learn
 
 Classification
 
-Logistic Regression
+• Logistic regression
 
-k-Nearest Neighbors (kNN)
+• k-Nearest Neighbors (k-NN)
 
-Support Vector Machines (SVM)
+• Support Vector Machines (SVM)
 
-Naive Bayes (recommended)
+• Naive Bayes
 
-Decision Trees
+• Decision trees
 
-Random Forest
+• Random forest
 
-Gradient Boosting / XGBoost (recommended)
+• Gradient boosting (XGBoost, LightGBM)
 
 Unsupervised Learning
 
-K-means clustering
+• K-means clustering
 
-Spectral clustering
+• Spectral clustering
 
-Mean Shift
+• Mean shift
 
-Hierarchical clustering (recommended)
+• Hierarchical clustering
 
-PCA (Principal Component Analysis)
+• PCA
 
-t-SNE / UMAP (modern dimensionality reduction)
+• t-SNE
 
-Level 1 Projects
+• UMAP
 
-House Price Prediction
+📗 Level 2 – Neural Network Basics
 
-Titanic Survival Classification
+• Perceptron (single neuron model)
 
-Spam Email Detection
+• Single-layer neural networks
 
-Customer Segmentation
+• Multi-layer perceptrons (MLP)
 
-PCA Visualization of MNIST
+• Deep neural networks (DNN)
 
-📗 LEVEL 2 — Neural Network Basics
-Core Concepts
+• Forward and backward propagation
 
-Perceptron (Single Neuron Model)
+• Activation functions (ReLU, Sigmoid, Tanh, Softmax)
 
-Single-Layer Neural Network
+• Loss functions (cross-entropy, MSE)
 
-Multi-Layer Perceptron (MLP)
+• Regularization (Dropout, BatchNorm)
 
-Deep Neural Networks (DNN)
-
-Forward & Backward Propagation
-
-Activation Functions
-
-ReLU, Sigmoid, Tanh, Softmax
-
-Loss Functions
-
-Cross-entropy, MSE
-
-Regularization
-
-Dropout
-
-Batch Normalization
-
-Weight Initialization
-
-Hyperparameter Tuning
+• Hyperparameter tuning
 
 Frameworks
 
-Keras
+• Keras
 
-TensorFlow
+• TensorFlow
 
-PyTorch (recommended, industry standard)
+• PyTorch
 
-Level 2 Projects
+📘 Level 3 – Convolutional Neural Networks (CNNs)
 
-MNIST Digit Recognition
+• Convolutions and feature maps
 
-DNN Regression vs Linear Regression
+• Pooling layers
 
-Build Your Own MLP From Scratch
+• Padding and stride
 
-📘 LEVEL 3 — CNNs (Computer Vision)
-Convolutional Neural Networks
+• CNN architectures: LeNet, AlexNet, VGG, ResNet, MobileNet, EfficientNet
 
-Convolution Operations
+• Data augmentation
 
-Feature Maps
+• Transfer learning
 
-Pooling Layers
+• Fine-tuning pretrained models
 
-Padding & Stride
+📙 Level 4 – Sequence Models (RNNs & LSTMs)
 
-CNN Architecture Basics
+• Recurrent neural networks (RNNs)
 
-Modern Architectures
+• Vanishing and exploding gradients
 
-LeNet
+• GRU
 
-AlexNet
+• LSTM
 
-VGG
+• Bidirectional RNNs
 
-ResNet
+• Sequence-to-sequence models
 
-MobileNet
-
-EfficientNet
-
-Training Techniques
-
-Data Augmentation
-
-Transfer Learning
-
-Fine-Tuning
-
-Class Activation Maps (CAM)
-
-Dealing with Overfitting
-
-Level 3 Projects
-
-CIFAR-10 Classifier
-
-Cats vs Dogs Classifier
-
-Pneumonia/Medical Imaging Classifier
-
-Build a mini-ResNet
-
-📙 LEVEL 4 — RNNs & Sequence Models
-Recurrent Models
-
-RNN (Recurrent Neural Network)
-
-Vanishing/Exploding Gradients
-
-GRU
-
-LSTM
-
-Bidirectional RNN
-
-Sequence-to-Sequence Models
-
-Encoder-Decoder Architecture
-
-Teacher Forcing
+• Teacher forcing
 
 Applications
 
-Speech Emotion Recognition
+• Speech emotion recognition
 
-Text Classification
+• Text classification
 
-Named Entity Recognition
+• Named entity recognition
 
-Time-Series Forecasting
+• Time series forecasting
 
-Level 4 Projects
+📗 Level 5 – Transformers & Attention
 
-Sentiment Analysis with LSTM
+• Attention mechanism
 
-Speech Emotion Classifier
+• Self-attention
 
-Stock Forecasting
+• Multi-head attention
 
-Machine Translation (Simple Seq2Seq)
+• Positional encoding
 
-📗 LEVEL 5 — Transformers & Attention
-Attention Mechanisms
+• Transformer encoder–decoder architecture
 
-Bahdanau (Additive) Attention
+• BERT
 
-Scaled Dot-Product Attention
+• GPT-style models
 
-Multi-Head Attention
+• Vision transformers (ViT)
 
-Transformers
+📘 Level 6 – Reinforcement Learning
 
-Encoder–Decoder Architecture
+• Markov decision processes (MDP)
 
-Position Embeddings
+• States, actions, rewards
 
-Feed-Forward Networks
+• Q-learning
 
-Layer Normalization
+• SARSA
 
-Modern Transformer Models
+• Deep Q-Networks (DQN)
 
-BERT
+• Policy gradients
 
-GPT Family
+• Actor-critic methods
 
-Vision Transformers (ViT)
+• PPO
 
-CLIP
+• A3C
 
-Level 5 Projects
-
-Text Classification with BERT
-
-Summarization Model
-
-Image Classification with ViT
-
-Mini-GPT for Language Modeling
-
-📘 LEVEL 6 — Reinforcement Learning
-RL Basics
-
-Markov Decision Processes (MDP)
-
-States, Actions, Rewards
-
-Policies & Value Functions
-
-Classical RL
-
-Q-Learning
-
-SARSA
-
-Deep Reinforcement Learning
-
-Deep Q-Networks (DQN)
-
-Policy Gradient
-
-Actor-Critic
-
-PPO
-
-A3C
-
-Level 6 Projects
-
-CartPole Balancing
-
-Atari Breakout Agent
-
-Gridworld Navigation
-
-Lunar Lander (OpenAI Gym)
-
-📙 LEVEL 7 — Advanced Topics & Projects
+📙 Level 7 – Advanced Topics
 Generative Models
 
-Variational Autoencoders (VAE)
+• Variational autoencoders (VAE)
 
-GANs
+• Generative adversarial networks (GANs)
 
-DCGAN
+• DCGAN
 
-CycleGAN
+• CycleGAN
 
-StyleGAN
+• StyleGAN
 
-Diffusion Models (optional but trending)
+• Diffusion models
 
-Graph Neural Networks (GNNs)
+Graph Neural Networks
 
-Graph Convolutional Networks (GCN)
+• Graph convolutional networks (GCN)
 
-Graph Attention Networks (GAT)
+• Graph attention networks (GAT)
 
-Node Classification
+• Node classification
 
-Link Prediction
+• Link prediction
 
-Graph Embeddings
-
-Level 7 Projects
-
-Face Generation with GAN
-
-Molecule Property Prediction with GNN
-
-Diffusion Model for Image Generation
-
-Graph Link Prediction (citation networks)
+• Graph embeddings
